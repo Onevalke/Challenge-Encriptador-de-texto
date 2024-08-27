@@ -23,7 +23,7 @@ function encriptar() {
         texto = texto.replace(/i /mg, "i");
         texto = texto.replace(/a/mg, "ai");
         texto = texto.replace(/o/mg, "ober");
-        texto = texto.replace(/u /mg, "ufat");
+        texto = texto.replace(/u/mg, "ufat");
     
     
         // Remover la imagen y mostrar el texto encriptado
